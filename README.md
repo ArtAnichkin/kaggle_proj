@@ -3,5 +3,5 @@
 
 | № | Название проекта | Краткое описание | Стек | Датасет |
 | -- | -- | -- | -- | -- |
-| 1 | [Прогнозирование оттока клиентов банка](https://github.com/ArtAnichkin/kaggle_proj/tree/main/1_credit_card_customers) | Прогнозирование рисков оттока клиентов для дальнейшего упрощения таргетирования их обработки | `sklearn`, `lightgbm`, `imblearn`, `phik` | [kaggle dataset](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)|
+| 1 | [Прогнозирование оттока клиентов банка](https://github.com/ArtAnichkin/kaggle_proj/tree/main/1_credit_card_customers) | Прогнозирование рисков оттока клиентов для дальнейшего упрощения таргетирования их обработки | `sklearn`, `lightgbm`, `imblearn`, `phik`, `pandas`, `numpy`, `matplotlib`, `seaborn`| [kaggle dataset](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)|
 
