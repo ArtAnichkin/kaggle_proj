@@ -14,7 +14,7 @@
 
 ## Стек технологий:
 
-sklearn, lightgbm, imblearn, phik
+sklearn, lightgbm, imblearn, phik, pandas, numpy, matplotlib, seaborn
 
 ## Статус проекта:
 
